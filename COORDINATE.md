@@ -11,7 +11,7 @@ The format is called [ASCII ARC file](http://en.wikipedia.org/wiki/Esri_grid)
 
 cellsize very closely matches 1/3600, so I assume it means 1 arc-second,
 [the resolution of ASTER GDEM data](https://lpdaac.usgs.gov/products/aster_products_table/astgtm)
-so the pixel size is 1 arc second, that is 2*pi*r / (360*60*60) = 30.92m
+so the pixel size is 1 arc second, that is 2\*pi\*r / (360\*60\*60) = 30.92m
 
 The data value is in meters.
 
